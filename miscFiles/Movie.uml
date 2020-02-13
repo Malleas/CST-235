@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Movie</OriginalElement>
+  <nodes>
+    <node x="508.0" y="0.0">Movie</node>
+    <node x="0.0" y="411.0">baseUser</node>
+    <node x="88.5" y="0.0">Location</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="baseUser" target="Location">
+      <point x="-115.75" y="-279.5" />
+      <point x="115.75" y="386.0" />
+      <point x="160.0" y="386.0" />
+      <point x="-71.5" y="180.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="704.7142857142856" y="487.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
